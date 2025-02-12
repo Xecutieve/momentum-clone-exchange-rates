@@ -1,4 +1,4 @@
-This is scrimba memonetum clone project.
+This is scrimba momenetum clone project.
 
 The change I made is instead of showing crypto currency, it shows USD-TRY EUR-TRY GBP-TRY exchange rates.
 
